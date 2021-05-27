@@ -1,0 +1,16 @@
+.pageContainer {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    display: inline;
+    margin: 5px;
+}
+
+p {
+    margin: 10px;
+}

@@ -1,0 +1,30 @@
+.formcontainer {
+    margin: 20px;
+    padding: 10px;
+    width: 440px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+input {
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+label {
+    display: block;
+    margin: 10px;
+    font-size: 16px;
+}
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+
+.error {
+    color: red;
+}
