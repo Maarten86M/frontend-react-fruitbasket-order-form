@@ -1,0 +1,9 @@
+.costumbutton {
+    margin: 20px;
+    width: 400px;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid black;
+    font-size: 18px;
+    font-weight: bold;
+}
